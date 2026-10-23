@@ -1,0 +1,1 @@
+{"version": "2.9.71", "file": "aqm-2.9.71.bin", "size": 3792144, "sha256": "d394ef28d01ce07888dcaa6cbf196b5fbe5f7583ac266b3e38de124198c0d36b", "notes": "Fixes the restart when the radio starts or changes station.", "date": "2026-10-23"}
