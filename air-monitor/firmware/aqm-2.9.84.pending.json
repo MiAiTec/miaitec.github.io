@@ -1,0 +1,1 @@
+{"version": "2.9.84", "file": "aqm-2.9.84.bin", "size": 3835408, "sha256": "328e26b1406c282123199dfaeda362ff484b84017a63a0523cb2f0c087fd23ff", "notes": "Cooking detection (trial) now also works when the stove gives no NOx, e.g. frying.", "date": "2026-10-25"}
