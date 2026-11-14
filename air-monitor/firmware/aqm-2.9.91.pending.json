@@ -1,0 +1,1 @@
+{"version": "2.9.91", "file": "aqm-2.9.91.bin", "size": 3812992, "sha256": "13b185169daf1fb5c99c99f3839f72448311dca0c393d0de22acd796fae92d21", "notes": "The diagnostics page /api/diag now needs the web sign-in", "date": "2026-11-14"}
