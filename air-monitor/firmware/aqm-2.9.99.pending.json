@@ -1,0 +1,1 @@
+{"version": "2.9.99", "file": "aqm-2.9.99.bin", "size": 3816976, "sha256": "f7daf6b818ca5e878030530aa40e7f8dcd9674a1334f5f420f97e1344fa2046c", "notes": "Smoother glides: frames are sent back to back; frame counter also shows ms per frame", "date": "2026-11-14"}
